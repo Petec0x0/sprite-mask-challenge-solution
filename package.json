@@ -1,0 +1,7 @@
+{
+  "name": "medium-sprite-mask-challenge",
+  "description": "medium-sprite-mask-challenge",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.8.1"
+  }
+}
