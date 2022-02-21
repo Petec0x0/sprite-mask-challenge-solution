@@ -1,6 +1,6 @@
 # medium-sprite-mask-challenge
 
-## medium-sprite-mask-challenge
+##### Solution for ["Medium | Topcoder Skill Builder Competition | LightningJS"](https://www.topcoder.com/challenges/4d0e0129-838c-498f-b709-a8891a14d8f5)
 
 ### Getting started
 
